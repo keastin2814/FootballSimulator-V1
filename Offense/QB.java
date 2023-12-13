@@ -5,6 +5,7 @@ package football.Offense;
 import football.Player;
 
 /**
+ * @author Kyle Eastin
  * @author Triston Lamonte
  */
 
