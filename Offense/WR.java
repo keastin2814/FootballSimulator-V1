@@ -2,7 +2,9 @@ package football.Offense;
 
 import football.Player;
 import java.util.Random;
+
 /**
+ * @author Kyle Eastin
  * @author Triston Lamonte
  */
 
